@@ -1,0 +1,21 @@
+.button1 {
+    background-color: rgb(27, 170, 99);
+    border-radius: 12px;
+    font-size: 16px;
+    align-items: center;
+    padding: 10px 24px;
+}
+
+.button1:hover {
+    background-color: rgb(19, 66, 27); /* Green */
+    color: white;
+}
+
+.Dtext {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
